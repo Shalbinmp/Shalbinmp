@@ -30,6 +30,6 @@
         <img alt="Shahadil Munawir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahadilMunawir&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1c1917" width="35%"/>
     </a>
     <a href="https://www.github.com/ShahadilMunawir"/>
-        <img alt="Shahadil Munawir's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ShahadilMunawir&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%"/>
+        <img alt="MUHAMMED SHALBIN's Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ShahadilMunawir&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%"/>
     </a>
 </div>
